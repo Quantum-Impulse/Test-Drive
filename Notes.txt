@@ -1,0 +1,8 @@
+Use the ctlr + shift + p command and select mange vendor libraries. Next select online installation. Then Paste the link in the box.
+You must do this to compile the code and run this program.
+
+Neo Spark Max Link: https://www.revrobotics.com/content/sw/max/sdk/REVRobotics.json
+
+NavX-MXP Library: https://www.kauailabs.com/dist/frc/2020/navx_frc.json
+
+
